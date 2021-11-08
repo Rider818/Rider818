@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rider818
 - 👀 I’m interested in Technology and Machines
-- 🌱 I’m currently learning Data Science 
+- 🌱 I’m currently learning Data Science, Software Testing and Manual Testing
 - 💞️ I’m looking to collaborate on New Platorms that encourage new things.
 - 📫 How to reach me @rider_818(instagram)
 
